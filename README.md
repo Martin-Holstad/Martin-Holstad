@@ -5,7 +5,7 @@ html and css. I can a little bit of design but my interest is more of the techni
 
 ## Im currently learning
 
-Lately i have been busy learning react and similar JavaScript frameworks.
+Lately i have been busy learning JavaScript frameworks such as react and next.js
 
 ## Contact me
 
