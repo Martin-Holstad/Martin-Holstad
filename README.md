@@ -1,7 +1,7 @@
 # Hi im Martin holstad
 I am a junior Front-End Developer from Norway who just finished
 two years at Noroff Front-End develoment. I love to code and develop responsive Websites with JavaScript,
-html and css. I can a little bit of design but my interest is more of the technical side of frontend development.
+html and css. I have some knowledge of design but my interest is more of the technical side of frontend development.
 
 ## Im currently learning
 
