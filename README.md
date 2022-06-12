@@ -3,6 +3,8 @@ I am a junior Front-End Developer from Norway who just finished
 two years at Noroff Front-End develoment. I love to code and develop responsive Websites with JavaScript,
 html and css. I have some knowledge of design but my interest is more of the technical side of frontend development.
 
+[My portfolio](https://epic-archimedes-6d6ed7.netlify.app/)
+
 ## Im currently learning
 
 Lately i have been busy learning JavaScript frameworks such as react and next.js
