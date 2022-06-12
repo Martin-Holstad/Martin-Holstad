@@ -7,7 +7,7 @@ html and css. I can a little bit of design but my interest is more of the techni
 
 Lately i have been busy learning react and similar JavaScript frameworks.
 
-# Contact me
+## Contact me
 
 Email: Martinholstad3@hotmail.com
 
