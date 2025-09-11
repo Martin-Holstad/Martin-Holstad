@@ -1,15 +1,19 @@
-# Hi im Martin Holstad
+# 👋 Hi, I'm Martin Holstad  
+**Front-End Developer**
 
-I'm a front-end developer with two years of hands-on experience building responsive, user-friendly web applications using React, TypeScript, HTML, and CSS. I’m passionate about clean code, intuitive design, and continuous learning. 
+I'm a front-end developer with two years of hands-on experience building responsive, user-friendly web applications using **React**, **TypeScript**, **HTML**, and **CSS**. I'm passionate about clean code, intuitive design, and continuous learning.
 
-I graduated from Noroff School of Technology and Digital Media, specializing in front-end development. I love building interactive, real-world applications that solve problems and enhance everyday experiences.
+I graduated from **Noroff School of Technology and Digital Media**, specializing in front-end development. I love building interactive, real-world applications that solve problems and enhance everyday experiences.
 
-[My portfolio](https://martin-holstad-portfolio.netlify.app/)
+---
 
-## Contact me
+## 🚀 My Portfolio  
+Check out my work:  
+🔗 [martin-holstad-portfolio.netlify.app](https://martin-holstad-portfolio.netlify.app/)
 
-Email: Martinholstad3@hotmail.com
+---
 
-Linkedin: https://www.linkedin.com/in/martin-holstad-794b9a1b4/
-
-Phone: 45436203
+## 📬 Contact Me  
+- 📧 Email: [martinholstad3@hotmail.com](mailto:martinholstad3@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/martin-holstad-794b9a1b4](https://www.linkedin.com/in/martin-holstad-794b9a1b4/)  
+- 📱 Phone: +47 454 36 203
