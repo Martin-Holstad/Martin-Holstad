@@ -12,14 +12,14 @@ I graduated from **Noroff School of Technology and Digital Media**, specializing
 **Languages & Markup**  
 `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
-**Frameworks & Libraries**  
-`React` · `Next.js` · `Tailwind CSS` · `Styled Components`
+**Frameworks**  
+`React`
 
 **Tools & Platforms**  
 `Git` · `GitHub` · `Vite` · `Netlify` · `VS Code`
 
 **Design & UI**  
-`Figma` · `Responsive Design` · `Accessibility`
+`Responsive Design` · `Accessibility`
 
 ---
 
