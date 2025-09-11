@@ -4,7 +4,7 @@ I'm a front-end developer with two years of hands-on experience building respons
 
 I graduated from Noroff School of Technology and Digital Media, specializing in front-end development. I love building interactive, real-world applications that solve problems and enhance everyday experiences.
 
-[My portfolio](https://app.netlify.com/projects/martin-holstad-portfolio/overview)
+[My portfolio](https://martin-holstad-portfolio.netlify.app/)
 
 ## Contact me
 
