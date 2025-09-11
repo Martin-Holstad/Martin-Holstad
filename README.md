@@ -1,8 +1,5 @@
 # Hi im Martin Holstad
-I am a junior Front-End Developer from Norway who just finished
-two years at Noroff Front-End develoment. I love to code and develop responsive Websites with JavaScript,
-html and css. I have some knowledge of design but my interest is more of the technical side of frontend development.
-
+I'm a front-end developer with two years of hands-on experience building responsive, user-friendly web applications using React, TypeScript, HTML, and CSS. I’m passionate about clean code, intuitive design, and continuous learning. I graduated from Noroff School of Technology and Digital Media, specializing in front-end development. I love building interactive, real-world applications that solve problems and enhance everyday experiences.
 [My portfolio](https://epic-archimedes-6d6ed7.netlify.app/)
 
 ## Im currently learning
