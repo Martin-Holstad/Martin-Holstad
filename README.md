@@ -7,6 +7,22 @@ I graduated from **Noroff School of Technology and Digital Media**, specializing
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages & Markup**  
+`TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+**Frameworks & Libraries**  
+`React` · `Next.js` · `Tailwind CSS` · `Styled Components`
+
+**Tools & Platforms**  
+`Git` · `GitHub` · `Vite` · `Netlify` · `VS Code`
+
+**Design & UI**  
+`Figma` · `Responsive Design` · `Accessibility`
+
+---
+
 ## 🚀 My Portfolio  
 Check out my work: [martin-holstad-portfolio.netlify.app](https://martin-holstad-portfolio.netlify.app/)
 
