@@ -30,5 +30,4 @@ Check out my work: [martin-holstad-portfolio.netlify.app](https://martin-holstad
 
 ## 📬 Contact Me  
 📧 Email: [martinholstad3@hotmail.com](mailto:martinholstad3@hotmail.com)  
-💼 LinkedIn: [linkedin.com/in/martin-holstad-794b9a1b4](https://www.linkedin.com/in/martin-holstad-794b9a1b4/)  
 📱 Phone: +47 454 36 203
