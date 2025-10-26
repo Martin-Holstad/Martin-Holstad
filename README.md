@@ -1,9 +1,9 @@
 # Hi, I'm Martin Holstad  
-**Front-End Developer**
+**Fullstack Developer with Frontend Focus**
 
-I'm a front-end developer with two years of hands-on experience building responsive, user-friendly web applications using **React**, **TypeScript**, **HTML**, and **CSS**. I'm passionate about clean code, intuitive design, and continuous learning.
+Hi, I'm Martin. I'm a fullstack developer with two years of hands on experience building responsive, user friendly web applications using React, TypeScript, HTML, and CSS. I’m passionate about clean code, intuitive design, and continuous learning.
 
-I graduated from **Noroff School of Technology and Digital Media**, specializing in front-end development. I love building interactive, real-world applications that solve problems and enhance everyday experiences.
+I graduated from Noroff School of Technology and Digital Media, specializing in front-end development. While my portfolio reflects that foundation, I’ve also delivered backend functionality using Express and Firebase, and I’m currently expanding my skills in .NET Core, Azure, and secure data access patterns to grow further into fullstack roles.
 
 ---
 
@@ -13,13 +13,13 @@ I graduated from **Noroff School of Technology and Digital Media**, specializing
 `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks**  
-`React`
+`React` · `Express` · `Firebase` · `(Learning: .NET Core, EF Core)`
 
 **Tools & Platforms**  
-`Git` · `GitHub` · `Vite` · `Netlify` · `VS Code`
+`Git` · `GitHub` · `Vite` · `Netlify` · `VS Code` · `(Learning: Azure)`
 
 **Design & UI**  
-`Responsive Design` · `Accessibility`
+`Responsive Design` · `Accessibility` · `UX Design`
 
 ---
 
